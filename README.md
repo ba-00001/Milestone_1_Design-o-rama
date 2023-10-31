@@ -5,9 +5,10 @@
 # AND101 Milestone 1 - **Team/App Name**
 
 Submitted by:
-- **Team Member 1 Name Here**
-- **Team Member 2 Name Here**
-- **etc**
+- **BRIAN BAZURTO**
+- **Jaydon Antoine**
+- **Norberto Merani**
+- **Osse Laborde**
 
 Time spent: **X** hours spent in total
 
