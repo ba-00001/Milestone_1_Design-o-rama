@@ -64,6 +64,7 @@ Required Feature
 
 <!-- Add picture of your hand sketched wireframes in this section -->
 <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+
 🚧 Under Construction 🚧
 This section is currently under construction. Please check back later for the completed version.
 
