@@ -39,6 +39,32 @@ Our team has brainstormed several app ideas that cater to various categories inc
 - Habit: 4/5
 - Scope: 5/5
 
+## Recipe Sharing App
+
+- **Mobile:** The app primarily functions to provide access to recipes, which can be accessed on the go, making it quite mobile-friendly. Users can easily access recipes from their smartphones or tablets, giving it a 4 out of 5.
+- **Story:** While sharing recipes can be appealing, the narrative around this app might not be as compelling compared to other ideas, resulting in a 3 out of 5.
+- **Market:** The market for recipe-sharing apps is quite sizable, with a large number of cooking enthusiasts and individuals interested in trying new recipes. It has a potential market of 4 out of 5.
+- **Habit:** Given the regularity of cooking and the habit-forming nature of trying out new recipes, this app has the potential to be quite habit-forming, earning it a 3 out of 5.
+- **Scope:** Implementing a comprehensive recipe-sharing platform might require a significant amount of effort, especially in terms of user-generated content and recipe curation. Thus, it has a 3 out of 5 in terms of scope.
+
+## Fitness Tracker App
+
+- **Mobile:** Fitness apps are inherently mobile, providing tracking and monitoring functionalities on-the-go, which makes it a 5 out of 5 in terms of being mobile-centric.
+- **Story:** The narrative around health and fitness can be quite compelling, especially in terms of helping users achieve their health goals, leading to a 4 out of 5 in terms of story.
+- **Market:** With the increasing emphasis on health and wellness, the market for fitness apps is considerable, catering to a large user base interested in tracking their fitness progress. It earns a 5 out of 5 for market potential.
+- **Habit:** Given the regularity and habit-forming nature of fitness activities, the app has the potential to be highly habit-forming, earning it a 4 out of 5 in this category.
+- **Scope:** Implementing a comprehensive fitness tracking app with a wide range of features can be quite challenging, which results in a 3 out of 5 in terms of scope.
+
+## Book Review App
+
+- **Mobile:** A book review app can be easily accessed and utilized on mobile devices, making it a 5 out of 5 in terms of mobile functionality.
+- **Story:** The narrative around books and sharing one's reading experiences can be quite compelling and engaging, leading to a 4 out of 5 in terms of story.
+- **Market:** While the market for book-related apps is significant, it might not be as extensive as some other categories, resulting in a 4 out of 5 in terms of market potential.
+- **Habit:** Reading is a habit-forming activity, and the app's potential to encourage users to share their thoughts and reviews can make it quite habit-forming, earning it a 4 out of 5 in this category.
+- **Scope:** Building a comprehensive book review app might involve integrating various book-related APIs and ensuring a user-friendly interface for sharing reviews and accessing book information, resulting in a 5 out of 5 in terms of scope.
+
+
+
 ## Final App Idea Chosen
 
 After careful evaluation and a vote among the team members, the Book Review App received the most votes, making it the clear choice for our final project. With its potential to cater to book enthusiasts and its scope for integrating various book-related APIs, we believe it presents a strong opportunity to create a valuable and engaging app for users.
