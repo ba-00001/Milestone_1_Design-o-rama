@@ -1,4 +1,5 @@
 ##project_spec
+
 Activity 2: Create a Product Spec
 App Overview
 A Book Review App that connects to a popular book review API, allowing users to access a curated list of popular books, read reviews, and share their own feedback on the books they've read. This project is designed to help beginners grasp the process of integrating book-related APIs, retrieving comprehensive book information, and presenting book reviews and details in a user-friendly and well-organized layout. As a stretch feature, the app enables users to conduct specific searches for books, enhancing their ability to explore and discover books of interest.
