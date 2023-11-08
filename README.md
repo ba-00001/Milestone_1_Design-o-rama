@@ -6,9 +6,7 @@
 
 Submitted by:
 - **BRIAN BAZURTO**
-- **Jaydon Antoine**
-- **Norberto Merani**
-- **Osse Laborde**
+
 
 Time spent: **3** hours spent in total
 
@@ -46,7 +44,8 @@ The following BONUS features are implemented:
 
 The following EXTRA features are implemented:
 
-- [ ] List anything else that you added to improve your submission!
+- [x] List anything else that you added to improve your submission!
+- [x] Tab Navigation
 
 ## Notes
 
