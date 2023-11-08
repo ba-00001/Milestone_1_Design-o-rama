@@ -72,16 +72,16 @@ Tab Navigation
 ## Wireframes
 
 <!-- Add picture of your hand sketched wireframes in this section -->
-<img src="https://github.com/GROUP-3-AND101/Milestone_1_Design-o-rama/blob/main/low-fidelity%20wireframe.jpg" width=600>
+<img src="https://github.com/ba-00001/Milestone_1_Design-o-rama/blob/main/low-fidelity%20wireframe.jpg" width=600>
 
 
 ### [BONUS] Digital Wireframes & Mockups
-<img src="https://github.com/GROUP-3-AND101/Milestone_1_Design-o-rama/blob/main/BookAppReview%20Digital%20wireframe.mockup%20images.png" width=600>
+<img src="https://github.com/ba-00001/Milestone_1_Design-o-rama/blob/main/BookAppReview%20Digital%20wireframe.mockup%20images.png" width=600>
 
 <!-- 🚧 Under Construction 🚧
 This section is currently under construction. Please check back later for the completed version. -->
 ### [BONUS] Interactive Prototype
-<img src="https://github.com/GROUP-3-AND101/Milestone_1_Design-o-rama/blob/main/AND101.BookReviewApp.InteractivePrototype.gif" width=600>
+<img src="https://github.com/ba-00001/Milestone_1_Design-o-rama/blob/main/AND101.BookReviewApp.InteractivePrototype.gif" width=600>
 
 
 ## Build Notes
